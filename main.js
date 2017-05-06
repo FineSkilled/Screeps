@@ -10,5 +10,3 @@ class Test {
 const go = new Test();
 
 go.test();
-
-// Was ist hier los!
